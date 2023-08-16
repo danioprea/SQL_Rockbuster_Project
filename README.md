@@ -34,3 +34,9 @@ A breakdown of the tables can be seen in the [Data Dictionary](https://github.co
 ## Visualizations
 
 All visualizations are linked in [the data analysis presentation](https://github.com/danioprea/SQL_Rockbuster_Project/blob/main/Rockbuster%20Stealth%20Data%20Analysis%20Presentation%20-%20Dani%20Oprea.pdf) but can also be found at the link [here](https://public.tableau.com/shared/FWGWFGXBX?:display_count=n&:origin=viz_share_link).
+
+## Tools
+
+The tools I used in this project were:
+- PostgreSQL (pgAdmin 4)
+- Tableau
