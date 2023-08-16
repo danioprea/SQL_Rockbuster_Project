@@ -29,4 +29,4 @@ The data used consisted of these following tables:
 - Staff
 - Store
 
-A breakdown of the tables can be seen in the Data [Dictionary](/Rockbuster Data Dictionary - Dani Oprea.pdf)
+A breakdown of the tables can be seen in the [Data Dictionary](https://github.com/danioprea/SQL_Rockbuster_Project/blob/main/Rockbuster%20Data%20Dictionary%20-%20Dani%20Oprea.pdf)
