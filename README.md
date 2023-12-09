@@ -1,4 +1,4 @@
-  # SQL_Rockbuster_Project
+  # SQL Rockbuster Project 🎬
 
 This project focused on fictional movie rental company Rockbuster Stealth LLC. Rockbuster Stealth LLC is planning to launch an online video rental service in order to stay competitive. 
 
